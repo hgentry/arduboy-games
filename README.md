@@ -11,13 +11,13 @@ This is a collection of the Arduboy games I've developed.
 
 ## Tech Demos
 ### RotatingCubeDemo
-[RotatingCubeDemo](RotatingCubeDemo/README.md) - Rotate a cube!
+[RotatingCubeDemo](RotatingCubeDemo) - Rotate a cube!
 - Controls: D-pad for rotation, A/B to bring up debug
 - Rotate a cube around the X and Y axes
 - Made before I was reminded that rotation is not commutative
 
 ### Quaternion Demo
-[QuaternionDemo](QuaternionDemo/README.md) - Rotate a cube, better!
+[QuaternionDemo](QuaternionDemo) - Rotate a cube, better!
 - Controls: D-pad for rotation, A/B to bring up debug
 - Rotate a cube around the X and Y axes, but with quaternions
 - I made this to find out if the Arduboy could even handle this kind of thing
