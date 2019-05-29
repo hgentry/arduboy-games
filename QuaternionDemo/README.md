@@ -1,4 +1,4 @@
-# TicTacToe
+# QuaternionDemo
 Rotate a cube, better!
 
 - Controls: D-pad for rotation, A/B to bring up debug
